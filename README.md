@@ -1,4 +1,3 @@
-# Git-Github-Lab1
 
 ## Git – Kom igång
 - 1 Öppna Bash
