@@ -1,36 +1,36 @@
 # Git-Github-Lab1
 
 ## Git – Kom igång
-- 1. Öppna Bash
+- 1 Öppna Bash
 
 ## Öppna terminalen.
 
-- 2. Gå till en mapp
+- 2 Gå till en mapp
 bash
 cd mappnamn
 
-- 3. Koppla till ett Git-repo
+- 3 Koppla till ett Git-repo
 bash
 git clone REPO-LÄNK (exempel: https://github.com/siggekolerud/Git-Github-Lab1.git)
 
-- 4. Gå in i projektet
+- 4 Gå in i projektet
 bash
 cd projektnamn
 
-- 5. Kontrollera status
+- 5 Kontrollera status
 bash
 git status
 
-- 6. Spara ändringar
+- 6 Spara ändringar
 bash
 git add .
 git commit -m "Min ändring"
 
-- 7. Skicka ändringar till GitHub
+- 7 Skicka ändringar till GitHub
 bash
 git push
 
-- 8. Hämta senaste ändringarna
+- 8 Hämta senaste ändringarna
 bash
 git pull
 
