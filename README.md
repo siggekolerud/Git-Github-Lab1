@@ -36,9 +36,9 @@ git pull
 
 ## Vanliga Git-kommandon
 Kommando	Betydelse
-git clone	Kopiera ett repo
-git status	Kontrollera status
-git add .	Förbered ändringar
-git commit	Spara ändringar
-git push	Skicka upp ändringar
-git pull	Hämta ändringar
+- git clone:	Kopiera ett repo
+- git status: Kontrollera status
+- git add:	Förbered ändringar
+- git commit: Spara ändringar
+- git push:	Skicka upp ändringar
+- git pull:	Hämta ändringar
