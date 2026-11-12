@@ -15,12 +15,14 @@
 
 - 6 Spara ändringar
 "git add ."
+
+- 7 commit meddelande
 "git commit -m "Min ändring"
 
-- 7 Skicka ändringar till GitHub
+- 8 Skicka ändringar till GitHub
 "git push"
 
-- 8 Hämta senaste ändringarna
+- 9 Hämta senaste ändringarna
 "git pull"
 
 ## Vanliga Git-kommandon
