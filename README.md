@@ -27,6 +27,9 @@
 9 Hämta senaste ändringarna:
 "git pull"
 
+<img width="638" height="350" alt="bildexempel" src="https://github.com/user-attachments/assets/bd902eee-5a04-4ae2-a067-563052a84cc1" />
+
+
 ## Vanliga Git-kommandon
 Kommando	Betydelse
 - git clone:	Kopiera ett repo
