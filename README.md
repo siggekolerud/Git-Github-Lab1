@@ -2,29 +2,29 @@
 
 
 ## Git – Kom igång
-- 1 Öppna Git Bash
+1 Öppna Git Bash
 
-- 2 Gå till den mapp du vill föra ditt repo till: "cd mappnamn"
+2 Gå till den mapp du vill föra ditt repo till: "cd mappnamn"
 
-- 3 Koppla till ett Git-repo:
+3 Koppla till ett Git-repo:
 "git clone REPO-LÄNK" (exempel: https://github.com/siggekolerud/Git-Github-Lab1.git)
 
-- 4 Gå in i projektet:
+4 Gå in i projektet:
 "cd projektnamn"
 
-- 5 Kontrollera status:
+5 Kontrollera status:
 "git status"
 
-- 6 Spara ändringar:
+6 Spara ändringar:
 "git add ."
 
-- 7 commit meddelande:
+7 commit meddelande:
 "git commit -m "Min ändring"
 
-- 8 Skicka ändringar till GitHub:
+8 Skicka ändringar till GitHub:
 "git push"
 
-- 9 Hämta senaste ändringarna:
+9 Hämta senaste ändringarna:
 "git pull"
 
 ## Vanliga Git-kommandon
