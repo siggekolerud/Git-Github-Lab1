@@ -2,13 +2,10 @@
 ## Git – Kom igång
 - 1 Öppna Bash
 
-- 2 Gå till en mapp:
-bash
-cd mappnamn
+- 2 Gå till en mapp: "cd mappnamn"
 
-- 3 Koppla till ett Git-repo
-bash
-git clone REPO-LÄNK (exempel: https://github.com/siggekolerud/Git-Github-Lab1.git)
+- 3 Koppla till ett Git-repo:
+"git clone REPO-LÄNK" (exempel: https://github.com/siggekolerud/Git-Github-Lab1.git)
 
 - 4 Gå in i projektet
 bash
