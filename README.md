@@ -2,7 +2,7 @@
 
 
 ## Git – Kom igång
-- 1 Öppna Bash
+- 1 Öppna Git Bash
 
 - 2 Gå till den mapp du vill föra ditt repo till: "cd mappnamn"
 
