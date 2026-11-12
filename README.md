@@ -8,25 +8,20 @@
 "git clone REPO-LÄNK" (exempel: https://github.com/siggekolerud/Git-Github-Lab1.git)
 
 - 4 Gå in i projektet
-bash
-cd projektnamn
+"cd projektnamn"
 
 - 5 Kontrollera status
-bash
-git status
+"git status"
 
 - 6 Spara ändringar
-bash
-git add .
-git commit -m "Min ändring"
+"git add ."
+"git commit -m "Min ändring"
 
 - 7 Skicka ändringar till GitHub
-bash
-git push
+"git push"
 
 - 8 Hämta senaste ändringarna
-bash
-git pull
+"git pull"
 
 ## Vanliga Git-kommandon
 Kommando	Betydelse
