@@ -2,7 +2,7 @@
 ## Git – Kom igång
 - 1 Öppna Bash
 
-- 2 Gå till en mapp
+- 2 Gå till en mapp:
 bash
 cd mappnamn
 
