@@ -1,8 +1,10 @@
+# En simple guide på hur man kan klona ett git repository från github och även sen pusha up ändringar.
+
 
 ## Git – Kom igång
 - 1 Öppna Bash
 
-- 2 Gå till en mapp: "cd mappnamn"
+- 2 Gå till den mapp du vill föra ditt repo till: "cd mappnamn"
 
 - 3 Koppla till ett Git-repo:
 "git clone REPO-LÄNK" (exempel: https://github.com/siggekolerud/Git-Github-Lab1.git)
@@ -31,5 +33,6 @@ Kommando	Betydelse
 - git status: Kontrollera status
 - git add:	Förbered ändringar
 - git commit: Spara ändringar
+-  -m: låter än lägga till ett meddelande
 - git push:	Skicka upp ändringar
 - git pull:	Hämta ändringar
